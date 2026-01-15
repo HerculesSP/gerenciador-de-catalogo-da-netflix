@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|c:\\users\\_007\\documents\\gerenciador-de-catalogo-da-netflix\\fngetallmovies\\fngetallmovies\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|solutionrelative:fngetallmovies\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|c:\\users\\_007\\documents\\gerenciador-de-catalogo-da-netflix\\fngetallmovies\\fngetallmovies\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|solutionrelative:fngetallmovies\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|c:\\users\\_007\\documents\\gerenciador-de-catalogo-da-netflix\\fngetallmovies\\fngetallmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|solutionrelative:fngetallmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|c:\\users\\_007\\documents\\gerenciador-de-catalogo-da-netflix\\fngetallmovies\\fngetallmovies\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6783D6EF-EA2F-48C0-BE0A-1887A254C621}|fnGetAllMovies\\fnGetAllMovies.csproj|solutionrelative:fngetallmovies\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\local.settings.json",
+              "RelativeDocumentMoniker": "fnGetAllMovies\\local.settings.json",
+              "ToolTip": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\local.settings.json",
+              "RelativeToolTip": "fnGetAllMovies\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T23:01:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieResult.cs",
+              "DocumentMoniker": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\MovieResult.cs",
+              "RelativeDocumentMoniker": "fnGetAllMovies\\MovieResult.cs",
+              "ToolTip": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\MovieResult.cs",
+              "RelativeToolTip": "fnGetAllMovies\\MovieResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:01:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\Program.cs",
+              "RelativeDocumentMoniker": "fnGetAllMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\Program.cs",
+              "RelativeToolTip": "fnGetAllMovies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:57:33.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGetAllMovies\\Function1.cs",
+              "ToolTip": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetAllMovies\\fnGetAllMovies\\Function1.cs",
+              "RelativeToolTip": "fnGetAllMovies\\Function1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:56:41.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -47,12 +47,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs",
               "RelativeDocumentMoniker": "fnGetMovieDetail\\Program.cs",
-              "ToolTip": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs*",
-              "RelativeToolTip": "fnGetMovieDetail\\Program.cs*",
+              "ToolTip": "C:\\Users\\_007\\Documents\\gerenciador-de-catalogo-da-netflix\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs",
+              "RelativeToolTip": "fnGetMovieDetail\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:19:44.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T21:19:44.149Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "fnGetMovieDetail\\MovieResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:13:17.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T21:13:17.403Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "fnGetMovieDetail\\Function1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:11:24.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T21:11:24.612Z"
             }
           ]
         }
